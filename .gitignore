@@ -5,3 +5,4 @@ AES.ip_user_files/
 AES.runs/
 *.log
 *.jou
+*.wcfg
